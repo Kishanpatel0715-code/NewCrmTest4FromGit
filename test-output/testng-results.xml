@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31263" started-at="2022-01-15T22:54:26Z" finished-at="2022-01-15T22:54:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31263" started-at="2022-01-15T22:54:26Z" finished-at="2022-01-15T22:54:57Z">
+      <class name="com.crm.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.tests.HomePageTest@548e7350]" name="setUp" is-config="true" duration-ms="8696" started-at="2022-01-15T22:54:26Z" finished-at="2022-01-15T22:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SelectAllDepartTest()[pri:0, instance:com.crm.tests.HomePageTest@548e7350]" name="SelectAllDepartTest" duration-ms="12909" started-at="2022-01-15T22:54:35Z" finished-at="2022-01-15T22:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAllDepartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.HomePageTest@548e7350]" name="tearDown" is-config="true" duration-ms="844" started-at="2022-01-15T22:54:48Z" finished-at="2022-01-15T22:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.tests.HomePageTest@548e7350]" name="setUp" is-config="true" duration-ms="7948" started-at="2022-01-15T22:54:48Z" finished-at="2022-01-15T22:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyLogoTest()[pri:0, instance:com.crm.tests.HomePageTest@548e7350]" name="VerifyLogoTest" duration-ms="118" started-at="2022-01-15T22:54:56Z" finished-at="2022-01-15T22:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.tests.HomePageTest@548e7350]" name="tearDown" is-config="true" duration-ms="720" started-at="2022-01-15T22:54:56Z" finished-at="2022-01-15T22:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
